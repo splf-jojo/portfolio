@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import phoneHomeImage from "../../assets/homescreen2.jpg";
 import appMainImage from "../../assets/appMain2.jpg";
 import appNotificationsImage from "../../assets/appNotifications2.jpg";
-import appIcon from "../../assets/appIcon.png"; // PNG-иконка приложения
+import appIcon from "../../assets/appicon.png"; // PNG-иконка приложения
 
 export default function FakePhoneApp({ onScreenChange }) {
     const [screen, setScreen] = useState("phoneHome");
