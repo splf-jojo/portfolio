@@ -18,10 +18,10 @@ function HeroSection() {
             <div className="h-[80vh] flex flex-col-reverse items-end justify-between  w-full">
                 {/* Текст внизу */}
                 <p className="text-lg md:text-xl text-right leading-tight text-gray-800 font-sans font-semibold mt-4">
-                    Hi, I&apos;m Duwy, A UI/UX <br />
-                    Designer Creating <br />
-                    Intuitive Digital <br />
-                    Experiences.
+                    Hi, I&apos;m Aman,<br />
+                    A student at<br />
+                    CUHK-Shenzhen <br />
+                    Majoring in Computer Science.
                 </p>
 
                 {/* Фото сверху */}

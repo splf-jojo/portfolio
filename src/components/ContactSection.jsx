@@ -182,7 +182,7 @@ export default function ContactSection() {
                 })}
             </div>
             <div className="text-neutral-500 py-8 text-left text-xl">
-                Based in Kazakhstan, Central Asia
+Born in Kazakhstan
             </div>
         </div>
     );
